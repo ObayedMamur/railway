@@ -1,0 +1,28 @@
+
+# Environment variables
+.env
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Screenshots and debug files
+*.png
+real-booking-error.png
+coach-selection-page.png
+seat-selection-page.png
+passenger-details-page.png
+payment-page.png
+otp-page.png
+booking-success.png
+search-page-debug.png
+language-selection-debug.png
+login-error-debug.png
+search-results-debug.png
+otp-page-reached.png
+booking-success-final.png
+current-page-debug.png
+no-otp-found.png
